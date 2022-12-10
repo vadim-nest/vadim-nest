@@ -5,7 +5,10 @@ I'm a web developer based in London, UK
 - 🔨 I have experience with Redux, Socket.io, Networking, Cypress.io, Jest, and Auth0.
 - 🤝 Team player, effective communication and teamwork skills.
 - 🌱 I’m currently learning Redux.
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vadim-gnezdyshkin/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vadim-nest/)
+
+Some of my recent projects:
+
 
 <!---
 vadim-nest/vadim-nest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
