@@ -4,7 +4,7 @@ I'm a web developer based in London, UK
 - 💡 I build scalable and responsive applications that provide an engaging user experience.
 - 🔨 I have experience with Redux, Angular, Socket.io, Networking, Cypress.io, Jest, and Auth0.
 - 🤝 Team player, effective communication and teamwork skills.
-- 🌱 I’m currently learning Web3.
+- 🌱 I’m currently learning Three.js.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vadim-nest/)
 
 <!---
