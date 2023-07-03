@@ -7,7 +7,7 @@ I'm a web developer based in London, UK
 - 🌱 I’m currently learning Three.js.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vadim-nest/)
 
-To see some of my work, visit my portfolio: (https://gne.me.uk)
+To see some of my work, visit my portfolio: https://gne.me.uk
 
 
 aMAZEthing is a real-time multiplayer game with a learning component. Algorithms such as Merge Sort and A* pathfinding are visualized to aid in understanding. Built using React, TypeScript, SocketIO, Auth0, and Redux.
